@@ -2,6 +2,6 @@
 
 <h2>Cybersecurity Projects</h2>
 
-<b>Azure / Cloud Project</b>
+<b>&#9729; Azure / Cloud Project</b>
 - [Creating a Live HoneyNet](https://github.com/its-pep/Azure-SOC-HoneyNet)
 
