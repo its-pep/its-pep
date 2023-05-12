@@ -7,4 +7,4 @@
   
 <b>👨‍💻 Information Technology Projects:</b>
 - [osTicket: Prerequisites and Installation](https://github.com/its-pep/osticket-prereq)
-
+- [osTicket: Post-Install Configuration](https://github.com/its-pep/osTicket)
