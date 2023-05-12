@@ -5,5 +5,6 @@
 <b>&#9729; Azure / SOC </b>
 - [Creating a Live HoneyNet](https://github.com/its-pep/Azure-SOC-HoneyNet)
   
-<h2>👨‍💻 Information Technology Projects:</h2>
+<b>👨‍💻 Information Technology Projects:</b>
+- [osTicket: Prerequisites and Installation](https://github.com/its-pep/osticket-prereq)
 
