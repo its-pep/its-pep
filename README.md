@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jose! <br/><a href="https://www.linkedin.com/in/jose-pep-zayas/"">IT Enthusiast and Cybersecurity Connoisseur - Certified in Nerding Out</a>
 
 
-<h2>&#9729; Azure Cyber Projects :</h2>
+<h2>&#9729; Azure Cybersecurity Projects :</h2>
   
 - <b>SOC Projects:</b>
   - [Creating a Live HoneyNet](https://github.com/its-pep/Azure-SOC-HoneyNet)
