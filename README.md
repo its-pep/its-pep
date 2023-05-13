@@ -11,3 +11,4 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/its-pep/osticket-prereq)
   - [osTicket: Post-Installation Configuration](https://github.com/its-pep/osTicket)
+  - [Configuring Active Directory within Azure VMs](https://github.com/its-pep/Active-Directory-set-up)
