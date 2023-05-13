@@ -12,6 +12,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/its-pep/osticket-prereq)
   - [osTicket: Post-Installation Configuration](https://github.com/its-pep/osTicket)
 - <b> Microsoft Azure:</b>
+  - [Create A Virtual Machine in Azure ](https://github.com/its-pep/Creating-A-Virtual-Machine)
   - [Configuring Active Directory within Azure VMs](https://github.com/its-pep/Active-Directory-set-up)
   
 <h2>🤳Connect with me:</h2>
