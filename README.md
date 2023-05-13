@@ -12,3 +12,9 @@
   - [osTicket: Prerequisites and Installation](https://github.com/its-pep/osticket-prereq)
   - [osTicket: Post-Installation Configuration](https://github.com/its-pep/osTicket)
   - [Configuring Active Directory within Azure VMs](https://github.com/its-pep/Active-Directory-set-up)
+  
+<h2>🤳Connect with me:</h2>
+  
+[<img align="left" alt="Jose | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+  
+[linkedin]: https://linkedin.com/in/jose-pep-zayas 
