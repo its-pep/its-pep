@@ -15,6 +15,12 @@
   - [Create A Virtual Machine in Azure ](https://github.com/its-pep/Creating-A-Virtual-Machine)
   - [Configuring Active Directory within Azure VMs](https://github.com/its-pep/Active-Directory-set-up)
   
+<h2>🐧 Linux</h2>
+  
+- <b>Command Line</b>
+  - [File Permissions in Linux](https://github.com/its-pep/File-permissions-in-Linux)
+  
+  
 <h2>🤳Connect with me:</h2>
   
 [<img align="left" alt="Jose | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
