@@ -15,7 +15,7 @@
   - [Create A Virtual Machine in Azure ](https://github.com/its-pep/Creating-A-Virtual-Machine)
   - [Configuring Active Directory within Azure VMs](https://github.com/its-pep/Active-Directory-set-up)
   
-<h2>🐧 Linux</h2>
+<h2>🐧 Linux:</h2>
   
 - <b>Command Line</b>
   - [File Permissions in Linux](https://github.com/its-pep/File-permissions-in-Linux)
